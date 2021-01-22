@@ -235,7 +235,7 @@ export default class Home extends Component {
               borderBottomLeftRadius: 50,
               position: 'absolute',
               left: 0,
-              backgroundColor: 'red',
+              backgroundColor: '#ee3124',
             }}
           />
           {this.state.jokeLimit ? (
